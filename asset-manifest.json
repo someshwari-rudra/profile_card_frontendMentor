@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile_card_frontendMentor/static/css/main.c55306dd.css",
+    "main.js": "/profile_card_frontendMentor/static/js/main.5988b6ee.js",
+    "static/media/card.svg": "/profile_card_frontendMentor/static/media/card.b61daebd3cb4b885d10fd683755d49bb.svg",
+    "index.html": "/profile_card_frontendMentor/index.html",
+    "static/media/bottom.svg": "/profile_card_frontendMentor/static/media/bottom.a34eb319c02ad49587c3.svg",
+    "static/media/top.svg": "/profile_card_frontendMentor/static/media/top.dae77b1febf9b29fe34e.svg",
+    "main.c55306dd.css.map": "/profile_card_frontendMentor/static/css/main.c55306dd.css.map",
+    "main.5988b6ee.js.map": "/profile_card_frontendMentor/static/js/main.5988b6ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55306dd.css",
+    "static/js/main.5988b6ee.js"
+  ]
+}
